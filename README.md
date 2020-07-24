@@ -11,5 +11,8 @@ que esas instrucciones mostradas en el video son elementos que seran convertidos
 Proyecto/db.sqlite3 esta direccion en el repositorio tenemos la base de datos generada y con la que hemos trabajado en el video puede observar las diferentes 
 tablas que hemos generado y las tablas que crea Django por defecto ya que son necesarias para el framework
 
+Proyecto/gestor/admin.py en esta direccion tenemos los elementos necesarios para poder realizar los cambios a nuestras respectivas tablas de nuestra base de datos
+ya que esta conectado con nuestro framework
+
 Enlace del video:
 https://drive.google.com/file/d/1TeNYgajBU2vqPCMImWBLimQSl5VRdaRC/view?usp=sharing
